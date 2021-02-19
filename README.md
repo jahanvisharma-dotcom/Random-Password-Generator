@@ -1,4 +1,4 @@
 # Random-Password-Generator-Using-Python
 
-This  is repo for implementing 
+This  is repo for implementing random 
 
